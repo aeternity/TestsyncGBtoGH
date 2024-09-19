@@ -10,3 +10,12 @@ Note
 
 * For rapid prototyping of smart contracts check out [AEstudio](https://studio.aepps.com/)!
 * For playing around and diving deeper into the language itself check out the [REPL](https://repl.aeternity.io/)!
+
+# Table of contents
+
+* [Introduction](README.md)
+* [Syntax](syntax.md)
+* [Standard Library](standard-library.md)
+* [Features](features.md)
+* [Contract Examples](contract-examples.md)
+* [Changelog](changelog.md)
